@@ -1,4 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+#### NAME: PREMJI P
+#### DATE:15/04/2024
+#### REGISTER NUMBER: 212221043004
+#### DEPT: CSE
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
@@ -38,15 +42,37 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Program : 
 DART studio screen shots for linear interpolation 
 
-![p1](https://github.com/DIVYADHARSHINI-08/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/145210448/3571f54e-a204-42e0-9ab5-edef32fe871e)
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/f1b8dd71-f4e2-4cbb-8ef0-d938b21dec8a)
+
+
 
 DART studio screen shots for joint interpolation 
 
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/cfe9b24d-81f1-4554-9db1-d8d7f8b37366)
+
+
 ### Robot movements 
 
-![m1](https://github.com/DIVYADHARSHINI-08/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/145210448/add9b1bd-647b-4d42-9d0c-0796e144e4ab)
 
-![m2](https://github.com/DIVYADHARSHINI-08/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/145210448/b56c034b-f7a6-4395-bf32-0fc5a5edad2c)
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/a4aaaa09-82f3-42f0-acc4-279c8af8bba4)
+
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/d362a00a-67d1-4299-b2cd-d00ca35cd01c)
+
+
 
 ### Results:  
-Thus ,linear and joint interpolation of industrial manipulator and program is executed.
+
+Thus linear and joint interpolation of industrial manipulator is studied and understood.
+
+
+
+
+
+
+
+
+
+
+
+
+### Results:  
